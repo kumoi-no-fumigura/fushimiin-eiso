@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/fushimiin-eiso",
  "yomi": "ふしみいんごえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御詠草",
+  "era": "鎌倉後期",
+  "author": "伏見院",
+  "desc": "伏見院の詠草。春を惜しむ連作などを題ごとに収め、人の世の別れへの思いを重ねた内省的な歌が目立つ。"
+ },
  "editions": [
   {
    "pid": "1088203",
